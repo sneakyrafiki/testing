@@ -14,8 +14,9 @@ Check out my cool R code
 
 ### Plots
 
-[Plot 1](/plot1)
-[Plot 2](/plot2)
+[Plot 1 - Analysis of Such and Such](plot1.md)
+
+[Plot 2 - Pretty Graphs](plot2.md)
 
 
 ### Conclusion

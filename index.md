@@ -4,10 +4,6 @@
 
 Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... Mortality rates ... 
 
-### Intro Video
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
-
 ### Preamble
 
 Rising meternal mortality rates...
@@ -15,6 +11,12 @@ Rising meternal mortality rates...
 ```markdown
 Check out my cool R code
 ```
+
+### Plots
+
+[Plot 1](/plot1)
+[Plot 2](/plot2)
+
 
 ### Conclusion
 
